@@ -1,0 +1,5 @@
+We want to keep an open dialogue between our Staff team and our player-base. If you ever need help or have suggestions for us on how we can do better, feel free to talk to us in If you ever need help in-game, ask a Staff Member! They wear a tag in-game and should be easily noticeable. Staff will be able to answer your question, and if they don't know how to, they’ll refer you to someone who can.
+
+Staff are also available for you in case anything is wrong and you need someone to talk to. They are helpers, advisors, and moderators, all at once! We love our Staff Team.
+
+We want to keep an open dialogue between our Staff team and our player-base. If you ever need help or have suggestions for us on how we can do better, feel free to talk to us in [our Discord server](https://craftingforchrist.net/discord) or email us: support@craftingforchrist.net.
