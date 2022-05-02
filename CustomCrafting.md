@@ -106,7 +106,7 @@ Flint can be repacked into gravel
 # Sponge Duplication
 Crafting together sponge (wet or dry) with coral blocks and corals (of any combination of colour, but must not be dead) will yield 4 sponges.
 
-<img src="https://github.com/craftingforchrist/SMP-Datapack/blob/master/images/spnge.png">
+<img src="https://github.com/craftingforchrist/SMP-Datapack/blob/master/images/sponge.png">
 
 # Unpackable Ice
 Blue ice and Packed ice crafting recipes can be reversed, making it a useful way to store ice/water
